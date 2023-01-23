@@ -2,7 +2,7 @@
 
 [Python Basic](basic-km-to-miles-converter.py)
 
-[String](stirng.py)
+[String](string.py)
 
 [Number](number.py)
 
